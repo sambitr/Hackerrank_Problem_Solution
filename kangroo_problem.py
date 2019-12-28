@@ -6,6 +6,10 @@ import random
 import re
 import sys
 
+"""
+A major hint(although not for all test cases) was given at the end of the problem statement by hackerRank. Use that to find the solution.
+I used a tad older/brute force approach
+"""
 # Complete the kangaroo function below.
 def kangaroo(x1, v1, x2, v2):
     if (x1 == x2) & (v1 == v2):
