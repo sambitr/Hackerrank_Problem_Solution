@@ -1,6 +1,5 @@
 #!/bin/python3
 
-from fractions import gcd
 import math
 import os
 import random
